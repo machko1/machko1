@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @machko1
-- 👀 I’m interested in coding, working out nad fashion.
+- 👀 I’m interested in coding, working out and fashion.
 - 🌱 I’m currently learning Java, C#, HTML etc.
 - 📫 How to reach me: machko.me@gmail.com or on steam id/machko if you wanna play smth :)
 
